@@ -25,7 +25,7 @@ defmodule HelixScylla.MixProject do
   defp deps do
     [
       {:xandra, "~> 0.20.0"},
-      {:decimal, "~> 2.0"},
+      {:decimal, "~> 3.1"},
       {:ex_doc, "~> 0.40", only: :dev, runtime: false},
       {:credo, "~> 1.7", only: [:dev, :test], runtime: false},
       {:dialyxir, "~> 1.4", only: [:dev], runtime: false}
