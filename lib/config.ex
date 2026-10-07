@@ -6,7 +6,7 @@ defmodule HelixScylla.Config do
 
       :error ->
         raise """
-        Missing :scylla configuration for #{app}
+        Missing :helix_scylla configuration for #{app}
         """
     end
   end

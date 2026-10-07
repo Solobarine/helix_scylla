@@ -1,4 +1,5 @@
 # HelixScylla
+## CURRENTLY A WORK IN PROGRESS, DO NOT USE IN DEVELOPMENT, TEST OR PRODUCTION
 
 ScyllaDB migration tooling for Elixir applications using Xandra.
 
